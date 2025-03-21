@@ -96,5 +96,7 @@ Upload the notebook and execute the cells directly.
 ---
 
 ## 🏎️ Acknowledgments
-A special shoutout to **Mariana Antaya** for the inspiration behind this project! This model is a work in progress, and as the **2025 F1 season unfolds**, I’ll continue refining it. Let’s see how well it holds up against real-world race results! 🚀
+- A special shoutout to **Mariana Antaya** for the inspiration behind this project! Check out her brief explaination on this ML prediction here: https://www.instagram.com/reel/DHP0otKuNly/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==
+
+- This model is a work in progress, and as the **2025 F1 season unfolds**, I’ll continue refining it. Let’s see how well it holds up against real-world race results! 🚀
 
